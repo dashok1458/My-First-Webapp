@@ -1,0 +1,6 @@
+projectKey=com.tcs.WebApp:My-First-Webapp
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.tcs.WebApp:My-First-Webapp
+ceTaskId=AXymxfWPCSNVScXXnCPk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXymxfWPCSNVScXXnCPk
